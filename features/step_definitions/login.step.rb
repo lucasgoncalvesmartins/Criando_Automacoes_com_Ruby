@@ -1,4 +1,4 @@
-
+#não esquecer de inicilizar a variavel @login e @home para que elas possam ser utilizadas em outros arquivos, como os step definitions, e também para que possam ser utilizadas em outros cenários, caso seja necessário.
 
 Dado('que o usuario queira se logar') do
   @login = LoginPage.new

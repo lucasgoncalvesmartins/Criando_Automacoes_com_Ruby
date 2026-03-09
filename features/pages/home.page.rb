@@ -13,6 +13,8 @@ class HomePage < SitePrism::Page
 
 
 end
+
+#arquivo da página inicial do linkedin, onde são mapeados os elementos da página, e também onde são criados os métodos para interagir com esses elementos, como o método check_estou_no_feed, que verifica se o usuário está na página inicial do linkedin, verificando se os elementos estão visíveis e se os textos estão corretos.
     
 
    

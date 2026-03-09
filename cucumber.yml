@@ -1,2 +1,5 @@
 homolog: URL=http://www.google.com
 prod: URL=https://www.linkedin.com/
+
+
+# Arquivo de configuração do cucumber, onde são definidas as variáveis de ambiente para os testes, como a url do site que será testado, e também onde são configurados os hooks para os testes.

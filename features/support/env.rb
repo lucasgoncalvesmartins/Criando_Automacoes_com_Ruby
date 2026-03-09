@@ -22,4 +22,5 @@ end
 # selenium chrome é o drive principal 
 # app_host é o site que será testado
 # default_max_wait_time é o tempo máximo de espera para encontrar um elemento na página
-
+#World(Page) é para que as páginas criadas no page.initialize.rb possam ser utilizadas em outros arquivos, como os step definitions, e também para que possam ser utilizadas em outros cenários, caso seja necessário.
+#enviroment é a variável de ambiente que armazena a url do site que será testado, e é utilizada para configurar o app_host do capybara, para que o teste seja executado no site correto.

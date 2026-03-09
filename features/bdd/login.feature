@@ -13,3 +13,4 @@ Quando ele digitar suas credenciais validas
 Então deve acessar sua conta com sucesso
 #então resultado esperado da ação
 
+#arquivo de feature onde são descritos os cenários de teste, utilizando a linguagem Gherkin, que é uma linguagem de fácil entendimento para descrever os cenários de teste, e também para que possam ser utilizados por outras pessoas que não possuem conhecimento técnico, como os stakeholders do projeto.

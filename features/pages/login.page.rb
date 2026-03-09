@@ -9,7 +9,7 @@ class LoginPage < SitePrism::Page
 
 
 
-#metodo para fazer login, utilizando os elementos mapeados acima, e os dados de login, que serão passados como parâmetros, e o método irá preencher os campos de email e senha, e clicar no botão de entrar.
+#metodo para fazer login, utilizando os elementos mapeados acima, e os dados de login, que serão passados como parâmetros, e o método irá preencher os campos de email e senha, e clicar no botão de entrar
     def fazer_login(email, senha)
         campo_email.set (email)
         campo_senha.set (senha)

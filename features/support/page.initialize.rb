@@ -13,3 +13,5 @@ module Page
     end
 
 end
+
+#arquivo de inicialização das páginas, para que elas possam ser utilizadas em outros arquivos, como os step definitions, e também para que possam ser utilizadas em outros cenários, caso seja necessário.
