@@ -8,7 +8,7 @@ require "rspec/expectations"
 
 Capybara.configure do |config|
   config.default_driver = :selenium_chrome
-  config.app_host = "http://www.linkedin.com/"
+  config.app_host = "https://www.linkedin.com/checkpoint/rm/sign-in-another-account?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin"
   config.default_max_wait_time = 5
 end
 
