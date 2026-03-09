@@ -62,4 +62,4 @@
 #tags são utilizadas para organizar os cenários, e facilitar a execução de testes específicos, por exemplo, se quisermos executar apenas os cenários relacionados ao login, podemos criar uma tag @login e adicionar essa tag em todos os cenários relacionados ao login, assim podemos executar apenas os cenários com a tag @login, isso facilita a execução de testes específicos e torna a manutenção dos testes mais fácil.
 #rodar o cmd cucumber --tags @login para rodar apenas os cenários com a tag @login, ou cucumber --tags @regressivo para rodar apenas os cenários com a tag @regressivo, isso facilita a execução de testes específicos e torna a manutenção dos testes mais fácil.
 
-#cucumber --format html --out=relatorio.html cria um relatorio
+#cucumber --format html --out=relatorio.html cria um relatorio, podemos utilizar também o plugin cucumber reports
