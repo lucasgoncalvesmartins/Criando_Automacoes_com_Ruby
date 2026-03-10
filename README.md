@@ -1,4 +1,4 @@
-# Automação de Testes – Login LinkedIn
+# Automação de Testes - Login LinkedIn
 
 Sistema de **automação de testes web** desenvolvido em **Ruby** utilizando **BDD** para validar o fluxo de login do LinkedIn.  
 
